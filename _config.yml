@@ -1,19 +1,4 @@
-name: Wolk
-favicon: null
-layout_spectrum: 0.21774394949898124
 typography_spectrum: 0.8664353510830551
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,20 @@ color:
   lightness: 0.3571918993256986
   saturation: 0.7747352181468159
   rhythmicContrast: 0.8230521865189075
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.21774394949898124
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Wolk
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Wij geven opleiding Webdesign
 purpose: []
