@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Wie zijn wij
+    id: 53b259df-2bf4-4f22-a2a1-bf3fac68b5b6
+    type: content
 favicon: null
 title: Wij geven opleiding Webdesign
 purpose: []
